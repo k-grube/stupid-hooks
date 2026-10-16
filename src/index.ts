@@ -1,1 +1,1 @@
-export {}
+export { useDoubleRightClick } from './useDoubleRightClick'
